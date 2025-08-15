@@ -2,8 +2,6 @@
 
 This project is a comprehensive end-to-end SQL-based data pipeline that unifies customer and product data from two core enterprise systems — CRM and ERP — into a centralized data warehouse. Built using the Medallion Architecture, it transforms raw operational data into trusted, analytics-ready datasets that drive better business decisions. By systematically cleaning, enriching, and integrating the data, the project enables reliable reporting and deep business insights through a star schema model. It supports key business use cases such as understanding customer lifetime value, tracking product performance, analyzing revenue trends, segmenting customers based on behavior, and measuring core KPIs like recency, frequency, and monetary value. With this foundation, the business gains a 360-degree view of its operations — helping stakeholders identify growth opportunities, optimize customer engagement, streamline product strategy, and make data-informed strategic choices across sales, marketing, and operations.
 
-> 📍 **Repository:** [SQL Project GitHub Repo](https://github.com/advaitkadam2505/sql-project)
-
 ---
 
 ## 📌 Objective
